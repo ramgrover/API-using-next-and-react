@@ -18,7 +18,7 @@ export default function About({ listing }) {
       <Card>
         <CardBody>
           <p>I am Ram, I like BTI most, My main aim is to develop good projects for companies and eventually open my own company.</p>
-          <p>Welcome to our inviting sanctuary, a carefully curated space designed to envelop you in comfort and style...</p>
+          <p>Welcome to our inviting sanctuary, a carefully curated space designed to envelop you in comfort and style....</p>
           <p>
             One of the places which I like to live in is: <Link href="/listing/1206363">Eco Hale Hawaii in the Rainforest Lots Of Aloha</Link>.
           </p>
